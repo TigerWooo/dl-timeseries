@@ -66,26 +66,6 @@
 
 ---
 
-## 📎 참고 논문 PDF
-
-- [논문 원본 보기](../LSTM-AutoEncoder_Battery_Visualization/LSTM-AutoEncoder_논문.pdf) *(※ 직접 업로드 필요)*
-
----
-
-## 🧩 참고문헌 중 유의할 점
-
-- LSTM과 AutoEncoder의 조합이 기존 회귀 모델 대비 우수함을 실험적으로 검증
-- 유사 연구: GPR, SVR, Decision Tree 등 전통 ML과 비교 분석 포함
-
----
-
-## 📌 향후 계획 (To-Do)
-
-- [ ] PyTorch 기반 구현 실습 노트북 작성
-- [ ] RGB 시각화 결과 예시 이미지 정리
-- [ ] 배터리 셀 단위 SOH 예측 확장 실험
-
----
 
 > ✍️ 정리: TaeGeol Woo  
 > _"시계열을 색으로 보는 새로운 시도."_  
